@@ -7,7 +7,7 @@ let friends = [
 ];
 let word = "lines ";
 
-for (let i=0; i < friends.length; i++) {
+for (let i = 0; i < friends.length; i++) {
     console.log(friends[i].toUpperCase() + ":");
 
     for (let i = 0; i < friends.length; i++) {
